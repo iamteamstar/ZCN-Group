@@ -147,7 +147,7 @@ Table of content:
 
 /* base background color */
 .bg-color{background: var(--primary-color)}
-.bg-light{background: var(--bg-light) !important}
+.bg-light{background: white !important}
 .bg-dark,.bg-dark-1{background-color: var(--bg-dark-1) !important}
 .bg-dark-2{background-color: var(--bg-dark-2) !important}
 .bg-dark-3{background-color: var(--bg-dark-3) !important}
@@ -7395,7 +7395,7 @@ footer .tiny-border span {
 /* ================================================== */
 
 /* background */
-.bg-white{ background:#ffffff; }
+.bg-white{ background:#000000; }
 .bg-black{ background:#000000; }
 
 /* width (percent) */
